@@ -9,4 +9,4 @@
         return $randomString;
     }
     echo (generateRandomString());
-    ?>
+?>
